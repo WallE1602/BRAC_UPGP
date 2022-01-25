@@ -1,6 +1,6 @@
 # brac_upgp
 
-A new Flutter application.
+A new Flutter application for the management of BRAC Ultra Poor Graduation Program.
 
 ## Getting Started
 
