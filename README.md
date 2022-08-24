@@ -2,6 +2,9 @@
 
 A new Flutter application for the management of BRAC Ultra Poor Graduation Program.
 
+## Screenshot
+![Screenshot 2022-08-25 032335](https://user-images.githubusercontent.com/47414976/186526744-9e4d2e4a-98d9-42a0-b6d5-681c9d1ccc1e.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
